@@ -1,0 +1,30 @@
+body{
+    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    height: 500px;
+    background: linear-gradient(90deg, #efd5ff 0%, #515ada 100%);
+ 
+}
+.banner1 p{
+    margin-top: 90px;
+    margin-left: 70px;
+    color: white;
+    font-size: 3rem;
+
+}
+main {
+    display: flex;
+    margin-top: 50px;
+}
+.banner2{
+    margin-left: 200px;
+    margin-right: 60px;
+    border-radius: 25%;
+}
+
+section{
+    color: white;
+    font-size: 1.2rem;
+    margin-left: 60px;
+    margin-right: 60px;
+}
